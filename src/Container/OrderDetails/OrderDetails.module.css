@@ -1,0 +1,22 @@
+.orderBox{
+    display: flex;
+    flex-direction: column;
+    border: 4px solid #fff;
+    margin-top: 1.5rem;
+}
+
+.topBox{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid #fff ;
+    padding: 1rem;
+    background-color: #fff ;
+    align-items: center;
+}
+
+.statusBox{
+    line-height: 5;
+    font-size: 3rem;
+    text-align: center;
+    font-weight: 600;
+}
